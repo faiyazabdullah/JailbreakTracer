@@ -1,4 +1,4 @@
-# JailbreakTracer: Detection of Jailbreaking Prompts in Large Language Models Using Explainable AI
+# JailbreakTracer: Explainable AI for Detection of Jailbreaking Prompts in Large Language Models Using Using Generative AI
 
 ## Dataset
 Download the dataset from [Kaggle]()
