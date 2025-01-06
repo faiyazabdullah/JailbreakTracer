@@ -1,4 +1,4 @@
-# JailbreakTracer: Explainable AI for Detecting Jailbreaking Prompts in LLMs Using Generative AI
+# JailbreakTracer: Explainable Detection of Jailbreaking Prompts in LLMs Using Generative AI
 
 ## Dataset
 Download the dataset from [Kaggle]()
