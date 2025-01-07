@@ -1,5 +1,7 @@
 # JailbreakTracer: Explainable Detection of Jailbreaking Prompts in LLMs Using Synthetic Data Generation
 
+![Methodology](assets/jailbreaktracer.drawio.png)
+
 ## Dataset
 Download the dataset from [Kaggle]()
 
