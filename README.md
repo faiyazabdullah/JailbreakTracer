@@ -4,7 +4,7 @@
 ![Methodology](assets/jailbreaktracer.drawio.png)
 
 ## Dataset
-Download the dataset from [Kaggle]()
+Download our dataset from [Kaggle]()
 
 ## Model Weights
 Download the [Fine-Tuned GPT Model](https://drive.google.com/file/d/1k2F2TVdPMG4df8BA1e2lekYHugp3zhR3/view?usp=sharing) to generate synthetic toxic/jailbreaking prompts.\
@@ -26,4 +26,5 @@ Download the [Forbidden Question Classifier](https://drive.google.com/file/d/1Tm
 | DrAttack [Li et al., 2024](https://arxiv.org/abs/2402.16914) | - | 62% |
 | **JailbreakTracer (Ours)** | **97.25%** | **91.9%** |
 
-
+## Contact
+For any queries, please contact us at msayeedi212049@bscse.uiu.ac.bd
