@@ -4,7 +4,7 @@
 ![Methodology](assets/jailbreaktracer.drawio.png)
 
 ## Dataset
-Download our dataset from [Kaggle]()
+Download our dataset from [Kaggle](https://www.kaggle.com/datasets/faiyazabdullah/jailbreaktracer-corpus)
 
 ## Model Weights
 Download the [Fine-Tuned GPT Model](https://drive.google.com/file/d/1k2F2TVdPMG4df8BA1e2lekYHugp3zhR3/view?usp=sharing) to generate synthetic toxic/jailbreaking prompts.\
