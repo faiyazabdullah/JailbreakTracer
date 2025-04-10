@@ -7,8 +7,8 @@
 Download our dataset from [Kaggle](https://www.kaggle.com/datasets/faiyazabdullah/jailbreaktracer-corpus)
 
 ## Codes
-Codes for toxic prompt classification can be found in [G1\notebooks](G1\notebooks) directory.\
-Codes for forbidden question reasoning can be found in [G2\notebooks](G2\notebooks) directory.
+Codes for toxic prompt classification can be found in [G1](G1/notebooks) directory.\
+Codes for forbidden question reasoning can be found in [G2](G2/notebooks) directory.
 
 ## Model Weights
 Download the [Fine-Tuned GPT Model](https://drive.google.com/file/d/1k2F2TVdPMG4df8BA1e2lekYHugp3zhR3/view?usp=sharing) to generate synthetic toxic/jailbreaking prompts.\
