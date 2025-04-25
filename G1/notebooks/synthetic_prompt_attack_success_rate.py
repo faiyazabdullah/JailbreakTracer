@@ -76,7 +76,7 @@ models = [
         "model_name": "meta-llama/Llama-3.2-1B",
         "tokenizer_name": "meta-llama/Llama-3.2-1B",
         "num_labels": 2,
-        "output_file": "classified_prompts_llama2.txt",
+        "output_file": "classified_prompts_llama-3.2-1B.txt",
     },
 ]
 
