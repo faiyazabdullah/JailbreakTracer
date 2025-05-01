@@ -3,7 +3,7 @@
 ***Under Review*** in `IEEE Access Journal`
 
 ## Methodology
-![Methodology](assets/jailbreaktracer.drawio.png)
+![Methodology](assets/jailbreaktracer.png)
 
 ## Dataset
 Download our dataset from [Kaggle](https://www.kaggle.com/datasets/faiyazabdullah/jailbreaktracer-corpus)
