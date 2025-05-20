@@ -1,6 +1,6 @@
 # JailbreakTracer: Explainable Detection of Jailbreaking Prompts in LLMs Using Synthetic Data Generation
 
-***Minor Review*** in `IEEE Access Journal`
+***Under Review*** in `IEEE Access Journal`
 
 ## Methodology
 ![Methodology](assets/jailbreaktracer.png)
