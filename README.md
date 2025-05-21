@@ -5,6 +5,14 @@
 ## Methodology
 ![Methodology](assets/jailbreaktracer.png)
 
+This diagram illustrates the full pipeline of the **JailbreakTracer** framework, including:
+
+- Collection of real and synthetic prompts
+- Preprocessing and tokenization
+- Transformer-based classifier training
+- Evaluation using standard NLP metrics
+- Integration of LIME for explainable AI (XAI)
+
 ## Dataset
 Download our dataset from [Kaggle](https://www.kaggle.com/datasets/faiyazabdullah/jailbreaktracer-corpus)
 
