@@ -5,7 +5,7 @@
 ## Methodology
 ![Methodology](assets/jailbreaktracer.png)
 
-The diagram below captures the end-to-end flow of the _JailbreakTracer_ framework — from curating a diverse set of real and synthetic adversarial prompts, through structured preprocessing and transformer-based classifier training, to rigorous evaluation using standard NLP metrics. The pipeline is capped with LIME-powered explainability, enabling transparent, token-level insights into model decisions. This integrated approach ensures both robust jailbreak detection and interpretable AI outcomes.
+The diagram below captures the end-to-end flow of the _JailbreakTracer_ framework — from curating a diverse set of real and synthetic adversarial prompts, through structured preprocessing and transformer-based classifier training, to rigorous evaluation. The pipeline is capped with LIME-powered explainability, enabling transparent, token-level insights into model decisions. This integrated approach ensures both robust jailbreak detection and interpretable AI outcomes.
 
 ## Dataset
 Download our dataset from [Kaggle](https://www.kaggle.com/datasets/faiyazabdullah/jailbreaktracer-corpus)
