@@ -34,5 +34,19 @@ Download the [Forbidden Question Classifier](https://drive.google.com/file/d/1Tm
 | DrAttack [Li et al., 2024](https://arxiv.org/abs/2402.16914) | - | 62% |
 | **JailbreakTracer (Ours)** | **97.25%** | **91.9%** |
 
+## Cite
+<pre>
+@ARTICLE{11036671,
+  author={Sayeedi, Md. Faiyaz Abdullah and Hossain, Maaz Bin and Hassan, Md. Kamrul and Afrin, Sabrina and Sabit, Molla Md and Hossain, Md. Shohrab},
+  journal={IEEE Access}, 
+  title={JailbreakTracer: Explainable Detection of Jailbreaking Prompts in LLMs Using Synthetic Data Generation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Ethics;Cognition;Synthetic data;Natural language processing;Artificial intelligence;Adaptation models;Security;Robustness;Prevention and mitigation;Passwords;Natural Language Processing;Large Language Models;Jailbreaking;Text Classification;Synthetic Data;Generative AI;Explainable AI},
+  doi={10.1109/ACCESS.2025.3579996}}
+</pre>
+
 ## Contact
 For any queries, please contact us at msayeedi212049@bscse.uiu.ac.bd
