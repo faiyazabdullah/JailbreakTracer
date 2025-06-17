@@ -5,7 +5,7 @@
 ## Methodology
 ![Methodology](assets/jailbreaktracer.png)
 
-The diagram below captures the end-to-end flow of the _JailbreakTracer_ framework — from curating a diverse set of real and synthetic adversarial prompts, through structured preprocessing and transformer-based classifier training, to rigorous evaluation. The pipeline is capped with LIME-powered explainability, enabling transparent, token-level insights into model decisions. This integrated approach ensures both robust jailbreak detection and interpretable AI outcomes.
+Overview of the **JailbreakTracer** Methodology. The methodology comprises five major components: (1) data collection from jailbreak attack research papers and prompt labeling; (2) synthetic toxic prompt generation using a fine-tuned GPT model, followed by attack validation via LLMs; (3) data preprocessing; (4) training of a transformer-based classifier with explainability provided via LIME; and (5) performance evaluation.
 
 ## Dataset
 Download our dataset from [Kaggle](https://www.kaggle.com/datasets/faiyazabdullah/jailbreaktracer-corpus)
