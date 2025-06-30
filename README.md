@@ -1,14 +1,13 @@
 # JailbreakTracer: Explainable Detection of Jailbreaking Prompts in LLMs Using Synthetic Data Generation
 
-***Accepted*** in `IEEE Access Journal` [**[paper]**](https://ieeexplore.ieee.org/abstract/document/11036671)
+***Accepted*** in `IEEE Access Journal`
+
+📄 [**[paper]**](https://ieeexplore.ieee.org/abstract/document/11036671) 📊 [[**dataset**]](https://www.kaggle.com/datasets/faiyazabdullah/jailbreaktracer-corpus)
 
 ## Methodology
 ![Methodology](assets/jailbreaktracer.png)
 
 Overview of the **JailbreakTracer** Methodology. The methodology comprises five major components: (1) data collection from jailbreak attack research papers and prompt labeling; (2) synthetic toxic prompt generation using a fine-tuned GPT model, followed by attack validation via LLMs; (3) data preprocessing; (4) training of a transformer-based classifier with explainability provided via LIME; and (5) performance evaluation.
-
-## Dataset
-Download our dataset from [Kaggle](https://www.kaggle.com/datasets/faiyazabdullah/jailbreaktracer-corpus)
 
 ## Codes
 Codes for toxic prompt classification can be found in [G1](G1/notebooks) directory.\
