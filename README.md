@@ -1,6 +1,6 @@
 # JailbreakTracer: Explainable Detection of Jailbreaking Prompts in LLMs Using Synthetic Data Generation
 
-***Accepted*** in `IEEE Access Journal`
+***Accepted*** in `IEEE Access Journal (Q1)`
 
 📄 [**[paper]**](https://ieeexplore.ieee.org/abstract/document/11036671) 📊 [[**dataset**]](https://www.kaggle.com/datasets/faiyazabdullah/jailbreaktracer-corpus)
 
