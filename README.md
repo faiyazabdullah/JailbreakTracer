@@ -36,14 +36,14 @@ Download the [Forbidden Question Classifier](https://drive.google.com/file/d/1Tm
 ## Cite
 <pre>
 @ARTICLE{11036671,
-  author={Sayeedi, Md. Faiyaz Abdullah and Hossain, Maaz Bin and Hassan, Md. Kamrul and Afrin, Sabrina and Sabit, Molla Md and Hossain, Md. Shohrab},
+  author={Sayeedi, Md. Faiyaz Abdullah and Bin Hossain, Maaz and Hassan, Md. Kamrul and Afrin, Sabrina and Hossain, Molla Md. Sabit and Hossain, Md. Shohrab},
   journal={IEEE Access}, 
   title={JailbreakTracer: Explainable Detection of Jailbreaking Prompts in LLMs Using Synthetic Data Generation}, 
   year={2025},
-  volume={},
+  volume={13},
   number={},
-  pages={1-1},
-  keywords={Ethics;Cognition;Synthetic data;Natural language processing;Artificial intelligence;Adaptation models;Security;Robustness;Prevention and mitigation;Passwords;Natural Language Processing;Large Language Models;Jailbreaking;Text Classification;Synthetic Data;Generative AI;Explainable AI},
+  pages={123708-123723},
+  keywords={Ethics;Cognition;Synthetic data;Natural language processing;Artificial intelligence;Adaptation models;Security;Robustness;Prevention and mitigation;Passwords;Natural language processing;large language models;jailbreaking;text classification;synthetic data;generative AI;explainable AI},
   doi={10.1109/ACCESS.2025.3579996}}
 </pre>
 
